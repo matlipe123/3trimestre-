@@ -1,5 +1,17 @@
-body(backround-color:3efof7;text-align:justify;font-size:18 px)
-h1(text-align:center;backroung-color:#cor;color:cor;color)
-h3(text-align:justify;color:#cor)
-b(color:blue;font-size:18 px)
-
+body{background-color:blue;text-align:justify;font-size:18 px}
+h1{text-align:center;background-color: blue;color:#blue}
+h3{text-align:justify;color:#cor}
+b{color:blue;font-size:18 px}
+i{color:blue;font-size:18px}
+header,footer{background-color:499cba;color:ceeffc;text-align center;font-size:20 px}
+main{background-color:8ddefc}
+calvos barbearia melhor barbearia de um calvo {text-align:justify;font-size:18 px;border:black solid 2 px:padding:18 px nargin 18px
+       (widht:5%heigth5%}    
+shampo para calvos R$ 55,90
+barba R$ 40,00
+cabelo R$ 35,00
+pezinho R$ 15,00
+degrade R$ 25,00
+corte feminino R$ 50,00
+pomada para modelar cabelo R$15,00
+{display: inline-block;}
