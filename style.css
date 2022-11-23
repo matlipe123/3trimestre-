@@ -1,17 +1,21 @@
-body{background-color:blue;text-align:justify;font-size:18 px}
-h1{text-align:center;background-color: blue;color:#blue}
-h3{text-align:justify;color:#cor}
-b{color:blue;font-size:18 px}
-i{color:blue;font-size:18px}
-header,footer{background-color:499cba;color:ceeffc;text-align center;font-size:20 px}
-main{background-color:8ddefc}
-calvos barbearia melhor barbearia de um calvo {text-align:justify;font-size:18 px;border:black solid 2 px:padding:18 px nargin 18px
-       (widht:5%heigth5%}    
-shampo para calvos R$ 55,90
-barba R$ 40,00
-cabelo R$ 35,00
-pezinho R$ 15,00
-degrade R$ 25,00
-corte feminino R$ 50,00
-pomada para modelar cabelo R$15,00
-{display: inline-block;}
+body {background-color: black; text-align: justify;font-size: 18px;}
+h1{text-align: center;background-color: aqua;color: azure;}
+h3{text-align: justify;color: aliceblue;}
+b{color: rgb(25,0,252);font-size: 18px;}
+i{color: rgb(141, 141,141);font-size: 18px;}
+header,footer{background-color: brown;color: black;text-align: center;font-size: 20px;}
+main{background-color: hsl(0, 0%, 55%);}
+.primeiroparagrafo{
+       text-align: justify;
+       font-size: 18px;
+       border: 2px solid black;
+       padding: 10px;
+       margin: 10px 40px 80px 15px;}
+       .segundoparagrafo{
+              text-align:justify ;
+              font-size: 18px;
+              border: 2px solid black;
+              padding: 10px;
+              margin: 10px 40px 80px 15px;}
+              #logocalvosbarbearia{width: 5%;height: 5%}
+              #lista{display: inline;}
