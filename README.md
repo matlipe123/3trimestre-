@@ -6,4 +6,4 @@ Matheus gabriel e Felipe Bolezina
 
 projeto de pensamento computacional 
 
-meu site é sobre a CAlvo's Barbearia a melhora pra sua autoestima, venha conosgo para essa experiencia maravilhosa
+meu site é sobre a CAlvo's Barbearia a melhora pra sua autoestima, venha conosco para essa experiencia maravilhosa
